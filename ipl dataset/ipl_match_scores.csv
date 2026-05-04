@@ -1,0 +1,2059 @@
+match_id,batting_team,innings_score
+1,Mumbai Indians,204
+1,Rajasthan Royals,186
+2,Chennai Super Kings,213
+2,Punjab Kings,198
+3,Lucknow Super Giants,233
+3,Punjab Kings,211
+4,Mumbai Indians,260
+4,Royal Challengers Bangalore,191
+5,Royal Challengers Bangalore,219
+5,Sunrisers Hyderabad,237
+6,Gujarat Titans,264
+6,Rajasthan Royals,205
+7,Chennai Super Kings,197
+7,Punjab Kings,222
+8,Chennai Super Kings,212
+8,Rajasthan Royals,213
+9,Chennai Super Kings,195
+9,Kolkata Knight Riders,215
+10,Delhi Capitals,213
+10,Royal Challengers Bangalore,231
+11,Gujarat Titans,178
+11,Lucknow Super Giants,217
+12,Chennai Super Kings,130
+12,Lucknow Super Giants,238
+13,Delhi Capitals,212
+13,Punjab Kings,212
+14,Mumbai Indians,193
+14,Rajasthan Royals,220
+15,Punjab Kings,176
+15,Sunrisers Hyderabad,178
+16,Kolkata Knight Riders,234
+16,Mumbai Indians,226
+17,Royal Challengers Bangalore,213
+17,Sunrisers Hyderabad,189
+18,Kolkata Knight Riders,239
+18,Punjab Kings,195
+19,Kolkata Knight Riders,253
+19,Lucknow Super Giants,210
+20,Delhi Capitals,211
+20,Mumbai Indians,232
+21,Chennai Super Kings,220
+21,Royal Challengers Bangalore,212
+22,Gujarat Titans,178
+22,Lucknow Super Giants,250
+23,Chennai Super Kings,176
+23,Gujarat Titans,136
+24,Punjab Kings,211
+24,Rajasthan Royals,177
+25,Punjab Kings,223
+25,Rajasthan Royals,221
+26,Delhi Capitals,207
+26,Sunrisers Hyderabad,247
+27,Rajasthan Royals,199
+27,Sunrisers Hyderabad,202
+28,Kolkata Knight Riders,163
+28,Punjab Kings,233
+29,Lucknow Super Giants,239
+29,Punjab Kings,203
+30,Punjab Kings,183
+30,Royal Challengers Bangalore,245
+31,Royal Challengers Bangalore,214
+31,Sunrisers Hyderabad,216
+32,Lucknow Super Giants,187
+32,Punjab Kings,240
+33,Gujarat Titans,201
+33,Rajasthan Royals,207
+34,Mumbai Indians,226
+34,Royal Challengers Bangalore,210
+35,Gujarat Titans,248
+35,Sunrisers Hyderabad,187
+36,Lucknow Super Giants,223
+36,Punjab Kings,107
+37,Gujarat Titans,249
+37,Kolkata Knight Riders,200
+38,Delhi Capitals,200
+38,Sunrisers Hyderabad,153
+39,Mumbai Indians,236
+39,Royal Challengers Bangalore,207
+40,Royal Challengers Bangalore,205
+40,Sunrisers Hyderabad,205
+41,Chennai Super Kings,232
+41,Rajasthan Royals,209
+42,Gujarat Titans,277
+42,Royal Challengers Bangalore,201
+43,Chennai Super Kings,218
+43,Gujarat Titans,219
+44,Gujarat Titans,235
+44,Mumbai Indians,232
+45,Punjab Kings,249
+45,Rajasthan Royals,195
+46,Delhi Capitals,214
+46,Gujarat Titans,214
+47,Chennai Super Kings,166
+47,Mumbai Indians,238
+48,Mumbai Indians,236
+48,Sunrisers Hyderabad,240
+49,Royal Challengers Bangalore,203
+49,Sunrisers Hyderabad,195
+50,Gujarat Titans,234
+50,Rajasthan Royals,227
+51,Punjab Kings,184
+51,Sunrisers Hyderabad,168
+52,Punjab Kings,228
+52,Rajasthan Royals,210
+53,Chennai Super Kings,231
+53,Sunrisers Hyderabad,186
+54,Chennai Super Kings,241
+54,Lucknow Super Giants,184
+55,Delhi Capitals,213
+55,Lucknow Super Giants,181
+56,Kolkata Knight Riders,217
+56,Sunrisers Hyderabad,161
+57,Royal Challengers Bangalore,192
+57,Sunrisers Hyderabad,201
+58,Chennai Super Kings,208
+58,Lucknow Super Giants,233
+59,Chennai Super Kings,234
+59,Punjab Kings,186
+60,Delhi Capitals,191
+60,Gujarat Titans,210
+61,Gujarat Titans,209
+61,Punjab Kings,207
+62,Lucknow Super Giants,186
+62,Mumbai Indians,178
+63,Mumbai Indians,202
+63,Rajasthan Royals,241
+64,Delhi Capitals,209
+64,Kolkata Knight Riders,207
+65,Royal Challengers Bangalore,234
+65,Sunrisers Hyderabad,220
+66,Kolkata Knight Riders,200
+66,Royal Challengers Bangalore,217
+67,Chennai Super Kings,231
+67,Rajasthan Royals,183
+68,Rajasthan Royals,173
+68,Royal Challengers Bangalore,222
+69,Chennai Super Kings,212
+69,Rajasthan Royals,230
+70,Lucknow Super Giants,225
+70,Sunrisers Hyderabad,196
+71,Kolkata Knight Riders,204
+71,Rajasthan Royals,194
+72,Delhi Capitals,213
+72,Royal Challengers Bangalore,185
+73,Delhi Capitals,230
+73,Punjab Kings,196
+74,Gujarat Titans,190
+74,Lucknow Super Giants,233
+75,Mumbai Indians,169
+75,Sunrisers Hyderabad,190
+76,Delhi Capitals,195
+76,Kolkata Knight Riders,222
+77,Lucknow Super Giants,210
+77,Rajasthan Royals,209
+78,Kolkata Knight Riders,83
+78,Punjab Kings,191
+79,Kolkata Knight Riders,214
+79,Mumbai Indians,216
+80,Mumbai Indians,194
+80,Rajasthan Royals,193
+81,Gujarat Titans,222
+81,Punjab Kings,215
+82,Lucknow Super Giants,192
+82,Mumbai Indians,190
+83,Lucknow Super Giants,197
+83,Rajasthan Royals,237
+84,Gujarat Titans,215
+84,Lucknow Super Giants,218
+85,Delhi Capitals,229
+85,Rajasthan Royals,227
+86,Gujarat Titans,207
+86,Mumbai Indians,179
+87,Lucknow Super Giants,208
+87,Sunrisers Hyderabad,185
+88,Delhi Capitals,211
+88,Gujarat Titans,190
+89,Lucknow Super Giants,225
+89,Sunrisers Hyderabad,168
+90,Punjab Kings,213
+90,Royal Challengers Bangalore,181
+91,Gujarat Titans,174
+91,Royal Challengers Bangalore,243
+92,Gujarat Titans,202
+92,Sunrisers Hyderabad,217
+93,Mumbai Indians,231
+93,Royal Challengers Bangalore,210
+94,Kolkata Knight Riders,229
+94,Lucknow Super Giants,189
+95,Gujarat Titans,172
+95,Rajasthan Royals,250
+96,Chennai Super Kings,212
+96,Sunrisers Hyderabad,214
+97,Gujarat Titans,213
+97,Sunrisers Hyderabad,149
+98,Kolkata Knight Riders,245
+98,Sunrisers Hyderabad,221
+99,Rajasthan Royals,204
+99,Royal Challengers Bangalore,200
+100,Chennai Super Kings,196
+100,Sunrisers Hyderabad,222
+101,Rajasthan Royals,212
+101,Sunrisers Hyderabad,216
+102,Punjab Kings,194
+102,Rajasthan Royals,177
+103,Lucknow Super Giants,230
+103,Sunrisers Hyderabad,235
+104,Lucknow Super Giants,190
+104,Rajasthan Royals,207
+105,Lucknow Super Giants,202
+105,Rajasthan Royals,213
+106,Chennai Super Kings,225
+106,Royal Challengers Bangalore,204
+107,Delhi Capitals,204
+107,Kolkata Knight Riders,216
+108,Gujarat Titans,215
+108,Punjab Kings,187
+109,Kolkata Knight Riders,258
+109,Rajasthan Royals,185
+110,Chennai Super Kings,203
+110,Lucknow Super Giants,211
+111,Gujarat Titans,231
+111,Mumbai Indians,205
+112,Chennai Super Kings,207
+112,Rajasthan Royals,237
+113,Lucknow Super Giants,204
+113,Royal Challengers Bangalore,188
+114,Gujarat Titans,197
+114,Mumbai Indians,169
+115,Chennai Super Kings,238
+115,Lucknow Super Giants,123
+116,Chennai Super Kings,219
+116,Punjab Kings,212
+117,Gujarat Titans,239
+117,Punjab Kings,167
+118,Chennai Super Kings,218
+118,Rajasthan Royals,171
+119,Gujarat Titans,192
+119,Punjab Kings,221
+120,Kolkata Knight Riders,239
+120,Royal Challengers Bangalore,216
+121,Gujarat Titans,190
+121,Rajasthan Royals,192
+122,Gujarat Titans,195
+122,Mumbai Indians,199
+123,Chennai Super Kings,195
+123,Lucknow Super Giants,184
+124,Kolkata Knight Riders,192
+124,Mumbai Indians,223
+125,Lucknow Super Giants,228
+125,Royal Challengers Bangalore,234
+126,Lucknow Super Giants,223
+126,Sunrisers Hyderabad,254
+127,Mumbai Indians,194
+127,Royal Challengers Bangalore,198
+128,Lucknow Super Giants,201
+128,Rajasthan Royals,193
+129,Chennai Super Kings,201
+129,Sunrisers Hyderabad,213
+130,Gujarat Titans,244
+130,Royal Challengers Bangalore,223
+131,Mumbai Indians,221
+131,Royal Challengers Bangalore,200
+132,Chennai Super Kings,219
+132,Rajasthan Royals,196
+133,Gujarat Titans,225
+133,Lucknow Super Giants,207
+134,Chennai Super Kings,177
+134,Lucknow Super Giants,240
+135,Chennai Super Kings,134
+135,Kolkata Knight Riders,231
+136,Delhi Capitals,160
+136,Punjab Kings,206
+137,Mumbai Indians,219
+137,Punjab Kings,214
+138,Lucknow Super Giants,227
+138,Sunrisers Hyderabad,218
+139,Chennai Super Kings,182
+139,Gujarat Titans,122
+140,Delhi Capitals,169
+140,Lucknow Super Giants,224
+141,Lucknow Super Giants,220
+141,Mumbai Indians,193
+142,Mumbai Indians,182
+142,Royal Challengers Bangalore,198
+143,Delhi Capitals,219
+143,Sunrisers Hyderabad,190
+144,Delhi Capitals,226
+144,Mumbai Indians,215
+145,Chennai Super Kings,216
+145,Lucknow Super Giants,193
+146,Chennai Super Kings,253
+146,Kolkata Knight Riders,193
+147,Rajasthan Royals,254
+147,Royal Challengers Bangalore,196
+148,Kolkata Knight Riders,206
+148,Punjab Kings,199
+149,Delhi Capitals,203
+149,Rajasthan Royals,215
+150,Lucknow Super Giants,209
+150,Punjab Kings,222
+151,Kolkata Knight Riders,224
+151,Lucknow Super Giants,245
+152,Chennai Super Kings,202
+152,Royal Challengers Bangalore,227
+153,Gujarat Titans,208
+153,Rajasthan Royals,224
+154,Chennai Super Kings,203
+154,Rajasthan Royals,189
+155,Chennai Super Kings,213
+155,Gujarat Titans,195
+156,Kolkata Knight Riders,216
+156,Royal Challengers Bangalore,215
+157,Lucknow Super Giants,284
+157,Royal Challengers Bangalore,240
+158,Chennai Super Kings,191
+158,Rajasthan Royals,213
+159,Punjab Kings,200
+159,Rajasthan Royals,228
+160,Delhi Capitals,243
+160,Rajasthan Royals,197
+161,Delhi Capitals,195
+161,Mumbai Indians,234
+162,Chennai Super Kings,184
+162,Kolkata Knight Riders,195
+163,Delhi Capitals,217
+163,Kolkata Knight Riders,181
+164,Mumbai Indians,248
+164,Punjab Kings,232
+165,Gujarat Titans,212
+165,Kolkata Knight Riders,204
+166,Mumbai Indians,202
+166,Sunrisers Hyderabad,222
+167,Lucknow Super Giants,221
+167,Sunrisers Hyderabad,215
+168,Lucknow Super Giants,223
+168,Rajasthan Royals,211
+169,Gujarat Titans,203
+169,Punjab Kings,204
+170,Gujarat Titans,198
+170,Sunrisers Hyderabad,213
+171,Lucknow Super Giants,243
+171,Punjab Kings,207
+172,Kolkata Knight Riders,134
+172,Mumbai Indians,206
+173,Delhi Capitals,197
+173,Kolkata Knight Riders,223
+174,Chennai Super Kings,208
+174,Royal Challengers Bangalore,222
+175,Gujarat Titans,155
+175,Sunrisers Hyderabad,208
+176,Delhi Capitals,185
+176,Mumbai Indians,227
+177,Kolkata Knight Riders,215
+177,Punjab Kings,229
+178,Lucknow Super Giants,181
+178,Mumbai Indians,171
+179,Punjab Kings,179
+179,Royal Challengers Bangalore,219
+180,Gujarat Titans,219
+180,Lucknow Super Giants,226
+181,Chennai Super Kings,237
+181,Gujarat Titans,263
+182,Lucknow Super Giants,199
+182,Mumbai Indians,215
+183,Delhi Capitals,240
+183,Rajasthan Royals,230
+184,Gujarat Titans,202
+184,Royal Challengers Bangalore,229
+185,Delhi Capitals,236
+185,Royal Challengers Bangalore,229
+186,Chennai Super Kings,208
+186,Gujarat Titans,227
+187,Gujarat Titans,238
+187,Kolkata Knight Riders,196
+188,Delhi Capitals,234
+188,Punjab Kings,236
+189,Delhi Capitals,225
+189,Royal Challengers Bangalore,198
+190,Mumbai Indians,212
+190,Royal Challengers Bangalore,175
+191,Chennai Super Kings,221
+191,Mumbai Indians,207
+192,Lucknow Super Giants,221
+192,Rajasthan Royals,207
+193,Lucknow Super Giants,227
+193,Punjab Kings,188
+194,Chennai Super Kings,226
+194,Lucknow Super Giants,213
+195,Chennai Super Kings,221
+195,Gujarat Titans,214
+196,Punjab Kings,200
+196,Rajasthan Royals,181
+197,Punjab Kings,214
+197,Sunrisers Hyderabad,225
+198,Lucknow Super Giants,188
+198,Punjab Kings,237
+199,Lucknow Super Giants,206
+199,Mumbai Indians,219
+200,Mumbai Indians,190
+200,Sunrisers Hyderabad,222
+201,Chennai Super Kings,196
+201,Royal Challengers Bangalore,181
+202,Gujarat Titans,183
+202,Rajasthan Royals,229
+203,Kolkata Knight Riders,205
+203,Punjab Kings,218
+204,Delhi Capitals,224
+204,Rajasthan Royals,194
+205,Kolkata Knight Riders,221
+205,Rajasthan Royals,220
+206,Gujarat Titans,200
+206,Lucknow Super Giants,225
+207,Royal Challengers Bangalore,213
+207,Sunrisers Hyderabad,227
+208,Delhi Capitals,224
+208,Mumbai Indians,172
+209,Rajasthan Royals,166
+209,Royal Challengers Bangalore,179
+210,Chennai Super Kings,228
+210,Rajasthan Royals,211
+211,Chennai Super Kings,217
+211,Sunrisers Hyderabad,209
+212,Lucknow Super Giants,250
+212,Sunrisers Hyderabad,230
+213,Chennai Super Kings,212
+213,Gujarat Titans,216
+214,Gujarat Titans,198
+214,Royal Challengers Bangalore,159
+215,Delhi Capitals,223
+215,Gujarat Titans,233
+216,Kolkata Knight Riders,216
+216,Sunrisers Hyderabad,230
+217,Lucknow Super Giants,243
+217,Mumbai Indians,207
+218,Gujarat Titans,197
+218,Mumbai Indians,208
+219,Mumbai Indians,232
+219,Royal Challengers Bangalore,225
+220,Lucknow Super Giants,212
+220,Punjab Kings,207
+221,Mumbai Indians,171
+221,Royal Challengers Bangalore,252
+222,Kolkata Knight Riders,189
+222,Mumbai Indians,198
+223,Rajasthan Royals,228
+223,Royal Challengers Bangalore,221
+224,Gujarat Titans,199
+224,Rajasthan Royals,201
+225,Punjab Kings,231
+225,Royal Challengers Bangalore,228
+226,Delhi Capitals,260
+226,Rajasthan Royals,223
+227,Kolkata Knight Riders,191
+227,Mumbai Indians,211
+228,Delhi Capitals,249
+228,Royal Challengers Bangalore,205
+229,Gujarat Titans,229
+229,Punjab Kings,227
+230,Lucknow Super Giants,270
+230,Sunrisers Hyderabad,205
+231,Gujarat Titans,201
+231,Mumbai Indians,166
+232,Gujarat Titans,265
+232,Mumbai Indians,221
+233,Chennai Super Kings,226
+233,Lucknow Super Giants,217
+234,Kolkata Knight Riders,244
+234,Lucknow Super Giants,164
+235,Delhi Capitals,179
+235,Punjab Kings,136
+236,Gujarat Titans,209
+236,Punjab Kings,192
+237,Delhi Capitals,199
+237,Gujarat Titans,205
+238,Royal Challengers Bangalore,218
+238,Sunrisers Hyderabad,207
+239,Chennai Super Kings,238
+239,Rajasthan Royals,203
+240,Gujarat Titans,232
+240,Kolkata Knight Riders,169
+241,Chennai Super Kings,190
+241,Sunrisers Hyderabad,188
+242,Delhi Capitals,177
+242,Mumbai Indians,214
+243,Kolkata Knight Riders,206
+243,Royal Challengers Bangalore,215
+244,Delhi Capitals,207
+244,Sunrisers Hyderabad,239
+245,Chennai Super Kings,257
+245,Punjab Kings,184
+246,Mumbai Indians,204
+246,Sunrisers Hyderabad,245
+247,Gujarat Titans,218
+247,Rajasthan Royals,187
+248,Kolkata Knight Riders,178
+248,Lucknow Super Giants,213
+249,Kolkata Knight Riders,216
+249,Rajasthan Royals,240
+250,Chennai Super Kings,202
+250,Sunrisers Hyderabad,213
+251,Kolkata Knight Riders,199
+251,Rajasthan Royals,239
+252,Chennai Super Kings,212
+252,Kolkata Knight Riders,213
+253,Delhi Capitals,252
+253,Punjab Kings,231
+254,Royal Challengers Bangalore,190
+254,Sunrisers Hyderabad,194
+255,Royal Challengers Bangalore,193
+255,Sunrisers Hyderabad,182
+256,Rajasthan Royals,204
+256,Royal Challengers Bangalore,188
+257,Chennai Super Kings,208
+257,Royal Challengers Bangalore,185
+258,Delhi Capitals,143
+258,Lucknow Super Giants,219
+259,Gujarat Titans,230
+259,Lucknow Super Giants,206
+260,Delhi Capitals,204
+260,Lucknow Super Giants,210
+261,Kolkata Knight Riders,235
+261,Royal Challengers Bangalore,209
+262,Kolkata Knight Riders,211
+262,Sunrisers Hyderabad,232
+263,Chennai Super Kings,194
+263,Punjab Kings,168
+264,Chennai Super Kings,206
+264,Mumbai Indians,189
+265,Delhi Capitals,217
+265,Rajasthan Royals,200
+266,Gujarat Titans,239
+266,Mumbai Indians,237
+267,Kolkata Knight Riders,192
+267,Sunrisers Hyderabad,208
+268,Mumbai Indians,201
+268,Punjab Kings,262
+269,Mumbai Indians,197
+269,Rajasthan Royals,183
+270,Gujarat Titans,157
+270,Sunrisers Hyderabad,172
+271,Chennai Super Kings,179
+271,Lucknow Super Giants,238
+272,Chennai Super Kings,142
+272,Royal Challengers Bangalore,189
+273,Punjab Kings,220
+273,Royal Challengers Bangalore,163
+274,Delhi Capitals,222
+274,Royal Challengers Bangalore,208
+275,Chennai Super Kings,217
+275,Kolkata Knight Riders,179
+276,Gujarat Titans,163
+276,Mumbai Indians,229
+277,Gujarat Titans,215
+277,Mumbai Indians,239
+278,Kolkata Knight Riders,211
+278,Sunrisers Hyderabad,224
+279,Delhi Capitals,151
+279,Sunrisers Hyderabad,222
+280,Mumbai Indians,226
+280,Royal Challengers Bangalore,248
+281,Punjab Kings,183
+281,Sunrisers Hyderabad,235
+282,Delhi Capitals,205
+282,Royal Challengers Bangalore,237
+283,Chennai Super Kings,215
+283,Gujarat Titans,235
+284,Mumbai Indians,225
+284,Sunrisers Hyderabad,238
+285,Chennai Super Kings,213
+285,Sunrisers Hyderabad,178
+286,Gujarat Titans,209
+286,Mumbai Indians,194
+287,Delhi Capitals,161
+287,Sunrisers Hyderabad,240
+288,Chennai Super Kings,198
+288,Delhi Capitals,206
+289,Gujarat Titans,195
+289,Punjab Kings,225
+290,Delhi Capitals,200
+290,Gujarat Titans,181
+291,Punjab Kings,201
+291,Rajasthan Royals,214
+292,Gujarat Titans,209
+292,Mumbai Indians,259
+293,Delhi Capitals,229
+293,Mumbai Indians,212
+294,Kolkata Knight Riders,228
+294,Lucknow Super Giants,218
+295,Mumbai Indians,205
+295,Royal Challengers Bangalore,211
+296,Delhi Capitals,190
+296,Gujarat Titans,244
+297,Kolkata Knight Riders,196
+297,Mumbai Indians,182
+298,Lucknow Super Giants,193
+298,Mumbai Indians,211
+299,Lucknow Super Giants,208
+299,Royal Challengers Bangalore,185
+300,Gujarat Titans,224
+300,Punjab Kings,216
+301,Delhi Capitals,209
+301,Sunrisers Hyderabad,176
+302,Mumbai Indians,235
+302,Rajasthan Royals,174
+303,Kolkata Knight Riders,254
+303,Lucknow Super Giants,273
+304,Chennai Super Kings,217
+304,Mumbai Indians,194
+305,Kolkata Knight Riders,209
+305,Mumbai Indians,226
+306,Lucknow Super Giants,230
+306,Sunrisers Hyderabad,207
+307,Delhi Capitals,219
+307,Sunrisers Hyderabad,193
+308,Chennai Super Kings,176
+308,Gujarat Titans,189
+309,Gujarat Titans,207
+309,Rajasthan Royals,204
+310,Chennai Super Kings,223
+310,Royal Challengers Bangalore,192
+311,Lucknow Super Giants,226
+311,Sunrisers Hyderabad,194
+312,Mumbai Indians,198
+312,Royal Challengers Bangalore,168
+313,Kolkata Knight Riders,249
+313,Mumbai Indians,211
+314,Delhi Capitals,203
+314,Gujarat Titans,228
+315,Lucknow Super Giants,219
+315,Royal Challengers Bangalore,217
+316,Chennai Super Kings,237
+316,Mumbai Indians,196
+317,Chennai Super Kings,212
+317,Delhi Capitals,231
+318,Chennai Super Kings,229
+318,Mumbai Indians,198
+319,Lucknow Super Giants,205
+319,Punjab Kings,202
+320,Gujarat Titans,166
+320,Royal Challengers Bangalore,190
+321,Lucknow Super Giants,227
+321,Punjab Kings,192
+322,Delhi Capitals,224
+322,Lucknow Super Giants,215
+323,Lucknow Super Giants,246
+323,Mumbai Indians,212
+324,Gujarat Titans,202
+324,Mumbai Indians,233
+325,Lucknow Super Giants,218
+325,Mumbai Indians,246
+326,Mumbai Indians,180
+326,Punjab Kings,171
+327,Delhi Capitals,204
+327,Gujarat Titans,171
+328,Delhi Capitals,197
+328,Lucknow Super Giants,165
+329,Gujarat Titans,191
+329,Lucknow Super Giants,218
+330,Gujarat Titans,195
+330,Lucknow Super Giants,133
+331,Mumbai Indians,223
+331,Punjab Kings,228
+332,Lucknow Super Giants,195
+332,Royal Challengers Bangalore,234
+333,Punjab Kings,225
+333,Rajasthan Royals,195
+334,Kolkata Knight Riders,204
+334,Royal Challengers Bangalore,229
+335,Rajasthan Royals,168
+335,Royal Challengers Bangalore,192
+336,Punjab Kings,208
+336,Rajasthan Royals,197
+337,Delhi Capitals,224
+337,Rajasthan Royals,167
+338,Chennai Super Kings,183
+338,Mumbai Indians,245
+339,Rajasthan Royals,207
+339,Royal Challengers Bangalore,204
+340,Mumbai Indians,202
+340,Punjab Kings,203
+341,Chennai Super Kings,135
+341,Lucknow Super Giants,229
+342,Kolkata Knight Riders,195
+342,Sunrisers Hyderabad,176
+343,Chennai Super Kings,204
+343,Kolkata Knight Riders,200
+344,Chennai Super Kings,205
+344,Kolkata Knight Riders,210
+345,Mumbai Indians,198
+345,Sunrisers Hyderabad,236
+346,Gujarat Titans,156
+346,Kolkata Knight Riders,181
+347,Delhi Capitals,159
+347,Punjab Kings,211
+348,Royal Challengers Bangalore,252
+348,Sunrisers Hyderabad,186
+349,Gujarat Titans,248
+349,Punjab Kings,147
+350,Delhi Capitals,223
+350,Punjab Kings,243
+351,Gujarat Titans,168
+351,Sunrisers Hyderabad,226
+352,Chennai Super Kings,222
+352,Rajasthan Royals,202
+353,Chennai Super Kings,238
+353,Royal Challengers Bangalore,199
+354,Chennai Super Kings,192
+354,Royal Challengers Bangalore,181
+355,Delhi Capitals,222
+355,Royal Challengers Bangalore,218
+356,Gujarat Titans,223
+356,Punjab Kings,208
+357,Delhi Capitals,181
+357,Rajasthan Royals,226
+358,Gujarat Titans,235
+358,Punjab Kings,196
+359,Lucknow Super Giants,175
+359,Rajasthan Royals,157
+360,Mumbai Indians,229
+360,Royal Challengers Bangalore,221
+361,Gujarat Titans,196
+361,Royal Challengers Bangalore,206
+362,Gujarat Titans,212
+362,Kolkata Knight Riders,262
+363,Kolkata Knight Riders,218
+363,Sunrisers Hyderabad,196
+364,Chennai Super Kings,241
+364,Gujarat Titans,192
+365,Kolkata Knight Riders,235
+365,Punjab Kings,208
+366,Lucknow Super Giants,207
+366,Rajasthan Royals,194
+367,Gujarat Titans,200
+367,Lucknow Super Giants,188
+368,Delhi Capitals,258
+368,Mumbai Indians,191
+369,Delhi Capitals,184
+369,Punjab Kings,219
+370,Delhi Capitals,219
+370,Royal Challengers Bangalore,234
+371,Mumbai Indians,197
+371,Punjab Kings,204
+372,Gujarat Titans,199
+372,Lucknow Super Giants,213
+373,Lucknow Super Giants,202
+373,Sunrisers Hyderabad,219
+374,Delhi Capitals,193
+374,Mumbai Indians,216
+375,Chennai Super Kings,242
+375,Sunrisers Hyderabad,210
+376,Rajasthan Royals,192
+376,Sunrisers Hyderabad,249
+377,Gujarat Titans,204
+377,Royal Challengers Bangalore,248
+378,Gujarat Titans,249
+378,Punjab Kings,192
+379,Kolkata Knight Riders,169
+379,Rajasthan Royals,230
+380,Rajasthan Royals,186
+380,Sunrisers Hyderabad,200
+381,Delhi Capitals,209
+381,Punjab Kings,240
+382,Gujarat Titans,220
+382,Sunrisers Hyderabad,186
+383,Gujarat Titans,199
+383,Rajasthan Royals,225
+384,Gujarat Titans,252
+384,Mumbai Indians,214
+385,Chennai Super Kings,217
+385,Royal Challengers Bangalore,236
+386,Delhi Capitals,224
+386,Rajasthan Royals,238
+387,Kolkata Knight Riders,216
+387,Mumbai Indians,200
+388,Delhi Capitals,229
+388,Punjab Kings,257
+389,Punjab Kings,205
+389,Rajasthan Royals,203
+390,Lucknow Super Giants,205
+390,Royal Challengers Bangalore,205
+391,Chennai Super Kings,188
+391,Sunrisers Hyderabad,206
+392,Gujarat Titans,229
+392,Punjab Kings,221
+393,Delhi Capitals,182
+393,Lucknow Super Giants,201
+394,Lucknow Super Giants,243
+394,Royal Challengers Bangalore,191
+395,Lucknow Super Giants,254
+395,Punjab Kings,232
+396,Gujarat Titans,194
+396,Royal Challengers Bangalore,215
+397,Chennai Super Kings,207
+397,Punjab Kings,186
+398,Gujarat Titans,212
+398,Kolkata Knight Riders,197
+399,Delhi Capitals,209
+399,Rajasthan Royals,260
+400,Chennai Super Kings,223
+400,Sunrisers Hyderabad,207
+401,Punjab Kings,261
+401,Sunrisers Hyderabad,153
+402,Delhi Capitals,214
+402,Royal Challengers Bangalore,191
+403,Delhi Capitals,205
+403,Mumbai Indians,205
+404,Kolkata Knight Riders,243
+404,Mumbai Indians,174
+405,Lucknow Super Giants,153
+405,Punjab Kings,242
+406,Lucknow Super Giants,188
+406,Sunrisers Hyderabad,242
+407,Kolkata Knight Riders,225
+407,Punjab Kings,263
+408,Gujarat Titans,210
+408,Rajasthan Royals,201
+409,Chennai Super Kings,222
+409,Lucknow Super Giants,193
+410,Punjab Kings,222
+410,Royal Challengers Bangalore,238
+411,Mumbai Indians,208
+411,Sunrisers Hyderabad,231
+412,Punjab Kings,212
+412,Rajasthan Royals,240
+413,Rajasthan Royals,186
+413,Royal Challengers Bangalore,232
+414,Chennai Super Kings,232
+414,Kolkata Knight Riders,190
+415,Chennai Super Kings,223
+415,Sunrisers Hyderabad,202
+416,Delhi Capitals,233
+416,Rajasthan Royals,203
+417,Chennai Super Kings,178
+417,Sunrisers Hyderabad,214
+418,Gujarat Titans,212
+418,Sunrisers Hyderabad,197
+419,Chennai Super Kings,219
+419,Mumbai Indians,263
+420,Mumbai Indians,206
+420,Royal Challengers Bangalore,221
+421,Chennai Super Kings,219
+421,Punjab Kings,185
+422,Mumbai Indians,213
+422,Royal Challengers Bangalore,206
+423,Mumbai Indians,235
+423,Sunrisers Hyderabad,219
+424,Gujarat Titans,220
+424,Kolkata Knight Riders,227
+425,Punjab Kings,184
+425,Sunrisers Hyderabad,231
+426,Lucknow Super Giants,235
+426,Royal Challengers Bangalore,186
+427,Delhi Capitals,226
+427,Rajasthan Royals,202
+428,Mumbai Indians,210
+428,Punjab Kings,204
+429,Kolkata Knight Riders,101
+429,Royal Challengers Bangalore,218
+430,Royal Challengers Bangalore,252
+430,Sunrisers Hyderabad,189
+431,Gujarat Titans,231
+431,Kolkata Knight Riders,183
+432,Punjab Kings,206
+432,Royal Challengers Bangalore,187
+433,Delhi Capitals,224
+433,Sunrisers Hyderabad,135
+434,Chennai Super Kings,217
+434,Mumbai Indians,235
+435,Lucknow Super Giants,220
+435,Royal Challengers Bangalore,169
+436,Chennai Super Kings,203
+436,Kolkata Knight Riders,248
+437,Chennai Super Kings,233
+437,Kolkata Knight Riders,199
+438,Kolkata Knight Riders,210
+438,Sunrisers Hyderabad,212
+439,Lucknow Super Giants,194
+439,Rajasthan Royals,201
+440,Gujarat Titans,213
+440,Punjab Kings,189
+441,Gujarat Titans,244
+441,Sunrisers Hyderabad,207
+442,Gujarat Titans,215
+442,Rajasthan Royals,194
+443,Lucknow Super Giants,204
+443,Punjab Kings,213
+444,Chennai Super Kings,138
+444,Royal Challengers Bangalore,266
+445,Chennai Super Kings,230
+445,Rajasthan Royals,182
+446,Lucknow Super Giants,232
+446,Rajasthan Royals,234
+447,Gujarat Titans,218
+447,Lucknow Super Giants,181
+448,Chennai Super Kings,228
+448,Sunrisers Hyderabad,220
+449,Gujarat Titans,231
+449,Royal Challengers Bangalore,230
+450,Chennai Super Kings,222
+450,Sunrisers Hyderabad,227
+451,Chennai Super Kings,161
+451,Punjab Kings,205
+452,Delhi Capitals,200
+452,Sunrisers Hyderabad,187
+453,Delhi Capitals,224
+453,Sunrisers Hyderabad,202
+454,Rajasthan Royals,182
+454,Royal Challengers Bangalore,229
+455,Rajasthan Royals,226
+455,Royal Challengers Bangalore,198
+456,Gujarat Titans,192
+456,Royal Challengers Bangalore,249
+457,Lucknow Super Giants,208
+457,Punjab Kings,218
+458,Kolkata Knight Riders,234
+458,Lucknow Super Giants,206
+459,Royal Challengers Bangalore,192
+459,Sunrisers Hyderabad,218
+460,Royal Challengers Bangalore,217
+460,Sunrisers Hyderabad,239
+461,Kolkata Knight Riders,250
+461,Rajasthan Royals,223
+462,Chennai Super Kings,182
+462,Lucknow Super Giants,194
+463,Rajasthan Royals,232
+463,Royal Challengers Bangalore,244
+464,Gujarat Titans,209
+464,Kolkata Knight Riders,264
+465,Chennai Super Kings,250
+465,Rajasthan Royals,167
+466,Gujarat Titans,209
+466,Lucknow Super Giants,218
+467,Punjab Kings,231
+467,Royal Challengers Bangalore,204
+468,Royal Challengers Bangalore,191
+468,Sunrisers Hyderabad,248
+469,Gujarat Titans,229
+469,Punjab Kings,251
+470,Punjab Kings,210
+470,Rajasthan Royals,189
+471,Delhi Capitals,248
+471,Punjab Kings,208
+472,Punjab Kings,230
+472,Royal Challengers Bangalore,207
+473,Chennai Super Kings,212
+473,Mumbai Indians,212
+474,Mumbai Indians,245
+474,Sunrisers Hyderabad,247
+475,Kolkata Knight Riders,210
+475,Lucknow Super Giants,232
+476,Gujarat Titans,218
+476,Kolkata Knight Riders,196
+477,Lucknow Super Giants,197
+477,Sunrisers Hyderabad,222
+478,Delhi Capitals,209
+478,Sunrisers Hyderabad,187
+479,Chennai Super Kings,176
+479,Gujarat Titans,252
+480,Gujarat Titans,178
+480,Sunrisers Hyderabad,165
+481,Lucknow Super Giants,240
+481,Royal Challengers Bangalore,214
+482,Chennai Super Kings,200
+482,Kolkata Knight Riders,198
+483,Kolkata Knight Riders,186
+483,Mumbai Indians,203
+484,Gujarat Titans,196
+484,Royal Challengers Bangalore,187
+485,Punjab Kings,221
+485,Royal Challengers Bangalore,147
+486,Mumbai Indians,249
+486,Punjab Kings,228
+487,Kolkata Knight Riders,247
+487,Sunrisers Hyderabad,164
+488,Kolkata Knight Riders,200
+488,Rajasthan Royals,195
+489,Punjab Kings,223
+489,Sunrisers Hyderabad,202
+490,Punjab Kings,203
+490,Rajasthan Royals,190
+491,Rajasthan Royals,218
+491,Royal Challengers Bangalore,227
+492,Kolkata Knight Riders,211
+492,Lucknow Super Giants,207
+493,Lucknow Super Giants,223
+493,Mumbai Indians,173
+494,Chennai Super Kings,223
+494,Punjab Kings,217
+495,Delhi Capitals,239
+495,Kolkata Knight Riders,196
+496,Lucknow Super Giants,182
+496,Punjab Kings,184
+497,Gujarat Titans,212
+497,Mumbai Indians,214
+498,Kolkata Knight Riders,235
+498,Royal Challengers Bangalore,181
+499,Delhi Capitals,220
+499,Royal Challengers Bangalore,246
+500,Gujarat Titans,214
+500,Rajasthan Royals,211
+501,Delhi Capitals,226
+501,Royal Challengers Bangalore,226
+502,Delhi Capitals,236
+502,Rajasthan Royals,218
+503,Rajasthan Royals,233
+503,Sunrisers Hyderabad,202
+504,Mumbai Indians,186
+504,Rajasthan Royals,195
+505,Kolkata Knight Riders,225
+505,Mumbai Indians,198
+506,Delhi Capitals,199
+506,Kolkata Knight Riders,191
+507,Chennai Super Kings,210
+507,Rajasthan Royals,174
+508,Delhi Capitals,196
+508,Gujarat Titans,226
+509,Delhi Capitals,241
+509,Gujarat Titans,199
+510,Delhi Capitals,237
+510,Lucknow Super Giants,230
+511,Rajasthan Royals,234
+511,Royal Challengers Bangalore,249
+512,Gujarat Titans,207
+512,Lucknow Super Giants,200
+513,Punjab Kings,245
+513,Royal Challengers Bangalore,210
+514,Kolkata Knight Riders,193
+514,Mumbai Indians,208
+515,Kolkata Knight Riders,224
+515,Rajasthan Royals,212
+516,Delhi Capitals,226
+516,Rajasthan Royals,249
+517,Chennai Super Kings,217
+517,Kolkata Knight Riders,217
+518,Royal Challengers Bangalore,208
+518,Sunrisers Hyderabad,165
+519,Chennai Super Kings,203
+519,Kolkata Knight Riders,211
+520,Punjab Kings,234
+520,Sunrisers Hyderabad,201
+521,Chennai Super Kings,209
+521,Kolkata Knight Riders,215
+522,Delhi Capitals,166
+522,Punjab Kings,209
+523,Gujarat Titans,242
+523,Mumbai Indians,177
+524,Lucknow Super Giants,219
+524,Mumbai Indians,212
+525,Punjab Kings,224
+525,Sunrisers Hyderabad,258
+526,Chennai Super Kings,157
+526,Lucknow Super Giants,202
+527,Lucknow Super Giants,240
+527,Rajasthan Royals,116
+528,Mumbai Indians,196
+528,Punjab Kings,171
+529,Delhi Capitals,227
+529,Lucknow Super Giants,191
+530,Kolkata Knight Riders,206
+530,Rajasthan Royals,194
+531,Mumbai Indians,197
+531,Punjab Kings,181
+532,Chennai Super Kings,227
+532,Royal Challengers Bangalore,213
+533,Chennai Super Kings,205
+533,Lucknow Super Giants,218
+534,Kolkata Knight Riders,128
+534,Royal Challengers Bangalore,230
+535,Rajasthan Royals,252
+535,Sunrisers Hyderabad,201
+536,Rajasthan Royals,212
+536,Sunrisers Hyderabad,217
+537,Mumbai Indians,203
+537,Rajasthan Royals,200
+538,Gujarat Titans,212
+538,Kolkata Knight Riders,230
+539,Kolkata Knight Riders,196
+539,Rajasthan Royals,174
+540,Delhi Capitals,198
+540,Kolkata Knight Riders,188
+541,Rajasthan Royals,215
+541,Sunrisers Hyderabad,197
+542,Kolkata Knight Riders,198
+542,Lucknow Super Giants,109
+543,Gujarat Titans,192
+543,Lucknow Super Giants,221
+544,Punjab Kings,249
+544,Royal Challengers Bangalore,219
+545,Chennai Super Kings,204
+545,Royal Challengers Bangalore,206
+546,Kolkata Knight Riders,224
+546,Sunrisers Hyderabad,194
+547,Lucknow Super Giants,200
+547,Sunrisers Hyderabad,203
+548,Mumbai Indians,195
+548,Rajasthan Royals,173
+549,Gujarat Titans,246
+549,Rajasthan Royals,188
+550,Gujarat Titans,197
+550,Mumbai Indians,208
+551,Chennai Super Kings,208
+551,Delhi Capitals,185
+552,Kolkata Knight Riders,138
+552,Rajasthan Royals,227
+553,Delhi Capitals,226
+553,Royal Challengers Bangalore,213
+554,Mumbai Indians,198
+554,Royal Challengers Bangalore,235
+555,Gujarat Titans,248
+555,Rajasthan Royals,182
+556,Delhi Capitals,235
+556,Kolkata Knight Riders,233
+557,Chennai Super Kings,219
+557,Sunrisers Hyderabad,153
+558,Mumbai Indians,206
+558,Rajasthan Royals,250
+559,Kolkata Knight Riders,199
+559,Sunrisers Hyderabad,187
+560,Chennai Super Kings,176
+560,Sunrisers Hyderabad,188
+561,Kolkata Knight Riders,196
+561,Royal Challengers Bangalore,223
+562,Kolkata Knight Riders,217
+562,Punjab Kings,234
+563,Kolkata Knight Riders,206
+563,Punjab Kings,215
+564,Mumbai Indians,202
+564,Punjab Kings,179
+565,Gujarat Titans,166
+565,Mumbai Indians,220
+566,Gujarat Titans,201
+566,Punjab Kings,181
+567,Punjab Kings,206
+567,Sunrisers Hyderabad,180
+568,Gujarat Titans,239
+568,Punjab Kings,183
+569,Kolkata Knight Riders,270
+569,Mumbai Indians,263
+570,Chennai Super Kings,222
+570,Mumbai Indians,255
+571,Chennai Super Kings,224
+571,Punjab Kings,206
+572,Chennai Super Kings,209
+572,Sunrisers Hyderabad,215
+573,Gujarat Titans,198
+573,Punjab Kings,176
+574,Chennai Super Kings,216
+574,Gujarat Titans,235
+575,Kolkata Knight Riders,178
+575,Royal Challengers Bangalore,185
+576,Mumbai Indians,204
+576,Rajasthan Royals,193
+577,Chennai Super Kings,225
+577,Gujarat Titans,169
+578,Kolkata Knight Riders,228
+578,Sunrisers Hyderabad,212
+579,Kolkata Knight Riders,196
+579,Mumbai Indians,239
+580,Chennai Super Kings,192
+580,Rajasthan Royals,237
+581,Chennai Super Kings,198
+581,Gujarat Titans,174
+582,Gujarat Titans,257
+582,Kolkata Knight Riders,241
+583,Chennai Super Kings,242
+583,Rajasthan Royals,201
+584,Gujarat Titans,183
+584,Lucknow Super Giants,239
+585,Chennai Super Kings,183
+585,Gujarat Titans,215
+586,Kolkata Knight Riders,224
+586,Sunrisers Hyderabad,210
+587,Chennai Super Kings,213
+587,Mumbai Indians,192
+588,Gujarat Titans,227
+588,Royal Challengers Bangalore,204
+589,Delhi Capitals,178
+589,Mumbai Indians,207
+590,Kolkata Knight Riders,235
+590,Lucknow Super Giants,184
+591,Gujarat Titans,260
+591,Royal Challengers Bangalore,219
+592,Gujarat Titans,236
+592,Mumbai Indians,198
+593,Delhi Capitals,202
+593,Gujarat Titans,184
+594,Punjab Kings,213
+594,Royal Challengers Bangalore,217
+595,Kolkata Knight Riders,212
+595,Royal Challengers Bangalore,230
+596,Chennai Super Kings,202
+596,Lucknow Super Giants,211
+597,Delhi Capitals,262
+597,Royal Challengers Bangalore,199
+598,Rajasthan Royals,177
+598,Sunrisers Hyderabad,218
+599,Kolkata Knight Riders,247
+599,Royal Challengers Bangalore,168
+600,Lucknow Super Giants,198
+600,Sunrisers Hyderabad,158
+601,Royal Challengers Bangalore,206
+601,Sunrisers Hyderabad,198
+602,Chennai Super Kings,194
+602,Punjab Kings,215
+603,Kolkata Knight Riders,259
+603,Sunrisers Hyderabad,200
+604,Rajasthan Royals,124
+604,Royal Challengers Bangalore,202
+605,Chennai Super Kings,213
+605,Lucknow Super Giants,215
+606,Mumbai Indians,237
+606,Rajasthan Royals,189
+607,Delhi Capitals,208
+607,Mumbai Indians,179
+608,Punjab Kings,208
+608,Rajasthan Royals,227
+609,Kolkata Knight Riders,206
+609,Lucknow Super Giants,192
+610,Gujarat Titans,178
+610,Rajasthan Royals,221
+611,Kolkata Knight Riders,199
+611,Royal Challengers Bangalore,212
+612,Chennai Super Kings,235
+612,Kolkata Knight Riders,190
+613,Mumbai Indians,241
+613,Sunrisers Hyderabad,197
+614,Lucknow Super Giants,185
+614,Sunrisers Hyderabad,203
+615,Kolkata Knight Riders,228
+615,Rajasthan Royals,175
+616,Mumbai Indians,209
+616,Sunrisers Hyderabad,152
+617,Gujarat Titans,208
+617,Lucknow Super Giants,224
+618,Lucknow Super Giants,204
+618,Punjab Kings,207
+619,Gujarat Titans,218
+619,Mumbai Indians,199
+620,Lucknow Super Giants,214
+620,Sunrisers Hyderabad,208
+621,Delhi Capitals,215
+621,Gujarat Titans,252
+622,Lucknow Super Giants,236
+622,Rajasthan Royals,208
+623,Punjab Kings,210
+623,Rajasthan Royals,214
+624,Chennai Super Kings,230
+624,Sunrisers Hyderabad,190
+625,Royal Challengers Bangalore,158
+625,Sunrisers Hyderabad,204
+626,Chennai Super Kings,235
+626,Gujarat Titans,205
+627,Lucknow Super Giants,222
+627,Sunrisers Hyderabad,252
+628,Delhi Capitals,233
+628,Punjab Kings,219
+629,Mumbai Indians,211
+629,Sunrisers Hyderabad,202
+630,Delhi Capitals,206
+630,Mumbai Indians,197
+631,Chennai Super Kings,194
+631,Sunrisers Hyderabad,216
+632,Chennai Super Kings,247
+632,Delhi Capitals,216
+633,Gujarat Titans,220
+633,Royal Challengers Bangalore,194
+634,Chennai Super Kings,200
+634,Sunrisers Hyderabad,254
+635,Lucknow Super Giants,224
+635,Sunrisers Hyderabad,229
+636,Punjab Kings,239
+636,Sunrisers Hyderabad,200
+637,Chennai Super Kings,220
+637,Gujarat Titans,238
+638,Rajasthan Royals,198
+638,Sunrisers Hyderabad,252
+639,Gujarat Titans,242
+639,Mumbai Indians,215
+640,Mumbai Indians,236
+640,Rajasthan Royals,240
+641,Delhi Capitals,195
+641,Lucknow Super Giants,232
+642,Kolkata Knight Riders,222
+642,Punjab Kings,207
+643,Mumbai Indians,242
+643,Rajasthan Royals,226
+644,Punjab Kings,212
+644,Royal Challengers Bangalore,232
+645,Delhi Capitals,219
+645,Royal Challengers Bangalore,232
+646,Chennai Super Kings,186
+646,Lucknow Super Giants,218
+647,Chennai Super Kings,217
+647,Lucknow Super Giants,182
+648,Royal Challengers Bangalore,204
+648,Sunrisers Hyderabad,234
+649,Delhi Capitals,232
+649,Sunrisers Hyderabad,242
+650,Chennai Super Kings,212
+650,Delhi Capitals,216
+651,Delhi Capitals,234
+651,Lucknow Super Giants,186
+652,Lucknow Super Giants,233
+652,Sunrisers Hyderabad,246
+653,Chennai Super Kings,216
+653,Kolkata Knight Riders,238
+654,Kolkata Knight Riders,252
+654,Royal Challengers Bangalore,203
+655,Delhi Capitals,229
+655,Punjab Kings,206
+656,Chennai Super Kings,239
+656,Sunrisers Hyderabad,220
+657,Mumbai Indians,246
+657,Sunrisers Hyderabad,232
+658,Rajasthan Royals,240
+658,Royal Challengers Bangalore,187
+659,Delhi Capitals,229
+659,Lucknow Super Giants,186
+660,Punjab Kings,214
+660,Royal Challengers Bangalore,199
+661,Gujarat Titans,234
+661,Kolkata Knight Riders,228
+662,Delhi Capitals,209
+662,Royal Challengers Bangalore,158
+663,Punjab Kings,192
+663,Sunrisers Hyderabad,213
+664,Gujarat Titans,221
+664,Punjab Kings,184
+665,Lucknow Super Giants,196
+665,Mumbai Indians,229
+666,Delhi Capitals,225
+666,Rajasthan Royals,250
+667,Delhi Capitals,218
+667,Rajasthan Royals,216
+668,Punjab Kings,204
+668,Royal Challengers Bangalore,222
+669,Lucknow Super Giants,188
+669,Rajasthan Royals,207
+670,Mumbai Indians,213
+670,Royal Challengers Bangalore,173
+671,Chennai Super Kings,206
+671,Sunrisers Hyderabad,155
+672,Gujarat Titans,219
+672,Kolkata Knight Riders,192
+673,Punjab Kings,181
+673,Royal Challengers Bangalore,229
+674,Delhi Capitals,197
+674,Rajasthan Royals,173
+675,Delhi Capitals,195
+675,Lucknow Super Giants,216
+676,Gujarat Titans,221
+676,Sunrisers Hyderabad,212
+677,Kolkata Knight Riders,219
+677,Rajasthan Royals,212
+678,Punjab Kings,192
+678,Rajasthan Royals,179
+679,Delhi Capitals,256
+679,Punjab Kings,193
+680,Punjab Kings,183
+680,Sunrisers Hyderabad,224
+681,Lucknow Super Giants,246
+681,Punjab Kings,217
+682,Delhi Capitals,245
+682,Kolkata Knight Riders,186
+683,Chennai Super Kings,226
+683,Kolkata Knight Riders,219
+684,Gujarat Titans,224
+684,Rajasthan Royals,195
+685,Chennai Super Kings,186
+685,Royal Challengers Bangalore,202
+686,Gujarat Titans,176
+686,Mumbai Indians,232
+687,Lucknow Super Giants,196
+687,Mumbai Indians,218
+688,Delhi Capitals,191
+688,Rajasthan Royals,211
+689,Rajasthan Royals,176
+689,Sunrisers Hyderabad,226
+690,Punjab Kings,227
+690,Royal Challengers Bangalore,228
+691,Gujarat Titans,139
+691,Sunrisers Hyderabad,196
+692,Lucknow Super Giants,221
+692,Punjab Kings,224
+693,Mumbai Indians,197
+693,Sunrisers Hyderabad,188
+694,Delhi Capitals,229
+694,Mumbai Indians,206
+695,Gujarat Titans,200
+695,Royal Challengers Bangalore,231
+696,Chennai Super Kings,231
+696,Punjab Kings,193
+697,Gujarat Titans,236
+697,Kolkata Knight Riders,227
+698,Kolkata Knight Riders,221
+698,Rajasthan Royals,201
+699,Rajasthan Royals,264
+699,Royal Challengers Bangalore,220
+700,Lucknow Super Giants,225
+700,Punjab Kings,204
+701,Punjab Kings,203
+701,Sunrisers Hyderabad,160
+702,Gujarat Titans,216
+702,Sunrisers Hyderabad,240
+703,Gujarat Titans,197
+703,Kolkata Knight Riders,210
+704,Lucknow Super Giants,200
+704,Royal Challengers Bangalore,195
+705,Punjab Kings,194
+705,Royal Challengers Bangalore,215
+706,Lucknow Super Giants,190
+706,Mumbai Indians,207
+707,Chennai Super Kings,204
+707,Gujarat Titans,195
+708,Kolkata Knight Riders,193
+708,Sunrisers Hyderabad,174
+709,Punjab Kings,226
+709,Sunrisers Hyderabad,192
+710,Chennai Super Kings,214
+710,Royal Challengers Bangalore,185
+711,Mumbai Indians,181
+711,Punjab Kings,237
+712,Mumbai Indians,222
+712,Sunrisers Hyderabad,178
+713,Kolkata Knight Riders,179
+713,Royal Challengers Bangalore,216
+714,Gujarat Titans,237
+714,Sunrisers Hyderabad,207
+715,Punjab Kings,222
+715,Sunrisers Hyderabad,219
+716,Chennai Super Kings,130
+716,Rajasthan Royals,216
+717,Chennai Super Kings,234
+717,Delhi Capitals,188
+718,Lucknow Super Giants,178
+718,Royal Challengers Bangalore,191
+719,Mumbai Indians,224
+719,Sunrisers Hyderabad,183
+720,Chennai Super Kings,229
+720,Punjab Kings,186
+721,Chennai Super Kings,204
+721,Delhi Capitals,217
+722,Punjab Kings,199
+722,Sunrisers Hyderabad,232
+723,Chennai Super Kings,194
+723,Punjab Kings,193
+724,Delhi Capitals,217
+724,Royal Challengers Bangalore,214
+725,Chennai Super Kings,228
+725,Lucknow Super Giants,158
+726,Kolkata Knight Riders,203
+726,Rajasthan Royals,189
+727,Chennai Super Kings,208
+727,Kolkata Knight Riders,188
+728,Kolkata Knight Riders,212
+728,Royal Challengers Bangalore,190
+729,Gujarat Titans,222
+729,Royal Challengers Bangalore,197
+730,Delhi Capitals,223
+730,Royal Challengers Bangalore,212
+731,Gujarat Titans,179
+731,Sunrisers Hyderabad,201
+732,Chennai Super Kings,197
+732,Sunrisers Hyderabad,206
+733,Gujarat Titans,230
+733,Kolkata Knight Riders,204
+734,Delhi Capitals,231
+734,Lucknow Super Giants,256
+735,Delhi Capitals,147
+735,Sunrisers Hyderabad,221
+736,Kolkata Knight Riders,202
+736,Punjab Kings,210
+737,Chennai Super Kings,206
+737,Kolkata Knight Riders,203
+738,Lucknow Super Giants,203
+738,Rajasthan Royals,201
+739,Gujarat Titans,249
+739,Royal Challengers Bangalore,191
+740,Kolkata Knight Riders,184
+740,Rajasthan Royals,225
+741,Rajasthan Royals,215
+741,Royal Challengers Bangalore,205
+742,Delhi Capitals,223
+742,Rajasthan Royals,212
+743,Kolkata Knight Riders,204
+743,Rajasthan Royals,186
+744,Lucknow Super Giants,192
+744,Mumbai Indians,203
+745,Chennai Super Kings,172
+745,Mumbai Indians,208
+746,Kolkata Knight Riders,229
+746,Lucknow Super Giants,243
+747,Punjab Kings,196
+747,Rajasthan Royals,220
+748,Punjab Kings,218
+748,Sunrisers Hyderabad,201
+749,Chennai Super Kings,191
+749,Punjab Kings,171
+750,Rajasthan Royals,242
+750,Sunrisers Hyderabad,202
+751,Kolkata Knight Riders,194
+751,Mumbai Indians,207
+752,Royal Challengers Bangalore,196
+752,Sunrisers Hyderabad,174
+753,Lucknow Super Giants,245
+753,Royal Challengers Bangalore,199
+754,Gujarat Titans,167
+754,Rajasthan Royals,244
+755,Lucknow Super Giants,221
+755,Rajasthan Royals,207
+756,Lucknow Super Giants,151
+756,Punjab Kings,203
+757,Chennai Super Kings,229
+757,Lucknow Super Giants,194
+758,Chennai Super Kings,192
+758,Rajasthan Royals,245
+759,Delhi Capitals,217
+759,Sunrisers Hyderabad,226
+760,Chennai Super Kings,242
+760,Punjab Kings,235
+761,Chennai Super Kings,219
+761,Kolkata Knight Riders,203
+762,Chennai Super Kings,207
+762,Punjab Kings,222
+763,Gujarat Titans,245
+763,Punjab Kings,179
+764,Lucknow Super Giants,216
+764,Mumbai Indians,207
+765,Delhi Capitals,169
+765,Punjab Kings,219
+766,Kolkata Knight Riders,194
+766,Lucknow Super Giants,228
+767,Chennai Super Kings,190
+767,Royal Challengers Bangalore,213
+768,Mumbai Indians,171
+768,Sunrisers Hyderabad,149
+769,Mumbai Indians,221
+769,Royal Challengers Bangalore,218
+770,Lucknow Super Giants,195
+770,Royal Challengers Bangalore,226
+771,Delhi Capitals,231
+771,Sunrisers Hyderabad,198
+772,Delhi Capitals,234
+772,Kolkata Knight Riders,212
+773,Delhi Capitals,228
+773,Sunrisers Hyderabad,153
+774,Delhi Capitals,144
+774,Mumbai Indians,193
+775,Gujarat Titans,146
+775,Royal Challengers Bangalore,232
+776,Gujarat Titans,212
+776,Rajasthan Royals,214
+777,Lucknow Super Giants,187
+777,Rajasthan Royals,199
+778,Chennai Super Kings,182
+778,Sunrisers Hyderabad,118
+779,Chennai Super Kings,208
+779,Gujarat Titans,206
+780,Kolkata Knight Riders,213
+780,Lucknow Super Giants,231
+781,Lucknow Super Giants,190
+781,Royal Challengers Bangalore,219
+782,Chennai Super Kings,202
+782,Gujarat Titans,225
+783,Kolkata Knight Riders,247
+783,Rajasthan Royals,200
+784,Gujarat Titans,200
+784,Sunrisers Hyderabad,190
+785,Gujarat Titans,191
+785,Royal Challengers Bangalore,217
+786,Delhi Capitals,182
+786,Mumbai Indians,204
+787,Rajasthan Royals,204
+787,Royal Challengers Bangalore,224
+788,Mumbai Indians,140
+788,Sunrisers Hyderabad,167
+789,Delhi Capitals,223
+789,Mumbai Indians,217
+790,Gujarat Titans,220
+790,Lucknow Super Giants,164
+791,Kolkata Knight Riders,218
+791,Mumbai Indians,212
+792,Lucknow Super Giants,204
+792,Punjab Kings,193
+793,Punjab Kings,192
+793,Royal Challengers Bangalore,180
+794,Gujarat Titans,193
+794,Rajasthan Royals,168
+795,Gujarat Titans,189
+795,Rajasthan Royals,189
+796,Kolkata Knight Riders,216
+796,Lucknow Super Giants,225
+797,Gujarat Titans,188
+797,Rajasthan Royals,202
+798,Lucknow Super Giants,226
+798,Rajasthan Royals,242
+799,Delhi Capitals,201
+799,Rajasthan Royals,161
+800,Lucknow Super Giants,213
+800,Sunrisers Hyderabad,212
+801,Chennai Super Kings,181
+801,Royal Challengers Bangalore,237
+802,Delhi Capitals,234
+802,Kolkata Knight Riders,227
+803,Chennai Super Kings,169
+803,Royal Challengers Bangalore,211
+804,Chennai Super Kings,235
+804,Rajasthan Royals,215
+805,Chennai Super Kings,221
+805,Gujarat Titans,192
+806,Royal Challengers Bangalore,223
+806,Sunrisers Hyderabad,165
+807,Delhi Capitals,195
+807,Mumbai Indians,211
+808,Punjab Kings,232
+808,Sunrisers Hyderabad,218
+809,Rajasthan Royals,216
+809,Sunrisers Hyderabad,210
+810,Rajasthan Royals,225
+810,Royal Challengers Bangalore,202
+811,Chennai Super Kings,220
+811,Gujarat Titans,241
+812,Gujarat Titans,232
+812,Mumbai Indians,196
+813,Kolkata Knight Riders,225
+813,Royal Challengers Bangalore,236
+814,Chennai Super Kings,222
+814,Gujarat Titans,198
+815,Chennai Super Kings,206
+815,Lucknow Super Giants,212
+816,Lucknow Super Giants,215
+816,Punjab Kings,200
+817,Gujarat Titans,193
+817,Royal Challengers Bangalore,234
+818,Chennai Super Kings,218
+818,Rajasthan Royals,255
+819,Gujarat Titans,246
+819,Lucknow Super Giants,238
+820,Delhi Capitals,231
+820,Kolkata Knight Riders,232
+821,Gujarat Titans,207
+821,Sunrisers Hyderabad,207
+822,Delhi Capitals,230
+822,Lucknow Super Giants,192
+823,Kolkata Knight Riders,182
+823,Mumbai Indians,248
+824,Gujarat Titans,230
+824,Rajasthan Royals,202
+825,Kolkata Knight Riders,196
+825,Lucknow Super Giants,178
+826,Gujarat Titans,186
+826,Royal Challengers Bangalore,201
+827,Mumbai Indians,186
+827,Sunrisers Hyderabad,207
+828,Gujarat Titans,191
+828,Lucknow Super Giants,196
+829,Kolkata Knight Riders,205
+829,Rajasthan Royals,224
+830,Mumbai Indians,191
+830,Royal Challengers Bangalore,225
+831,Delhi Capitals,204
+831,Kolkata Knight Riders,226
+832,Chennai Super Kings,201
+832,Kolkata Knight Riders,196
+833,Chennai Super Kings,180
+833,Royal Challengers Bangalore,236
+834,Gujarat Titans,204
+834,Kolkata Knight Riders,226
+835,Chennai Super Kings,208
+835,Royal Challengers Bangalore,194
+836,Chennai Super Kings,208
+836,Royal Challengers Bangalore,243
+837,Chennai Super Kings,232
+837,Royal Challengers Bangalore,216
+838,Gujarat Titans,194
+838,Sunrisers Hyderabad,177
+839,Mumbai Indians,190
+839,Royal Challengers Bangalore,167
+840,Delhi Capitals,230
+840,Sunrisers Hyderabad,173
+841,Mumbai Indians,182
+841,Sunrisers Hyderabad,209
+842,Gujarat Titans,232
+842,Sunrisers Hyderabad,187
+843,Chennai Super Kings,227
+843,Rajasthan Royals,215
+844,Mumbai Indians,183
+844,Rajasthan Royals,195
+845,Chennai Super Kings,208
+845,Rajasthan Royals,215
+846,Delhi Capitals,122
+846,Royal Challengers Bangalore,113
+847,Chennai Super Kings,218
+847,Rajasthan Royals,187
+848,Mumbai Indians,259
+848,Rajasthan Royals,201
+849,Kolkata Knight Riders,222
+849,Rajasthan Royals,231
+850,Mumbai Indians,207
+850,Royal Challengers Bangalore,222
+851,Mumbai Indians,217
+851,Sunrisers Hyderabad,254
+852,Lucknow Super Giants,202
+852,Punjab Kings,206
+853,Mumbai Indians,229
+853,Punjab Kings,241
+854,Gujarat Titans,197
+854,Royal Challengers Bangalore,211
+855,Chennai Super Kings,246
+855,Kolkata Knight Riders,192
+856,Mumbai Indians,259
+856,Punjab Kings,246
+857,Gujarat Titans,192
+857,Royal Challengers Bangalore,205
+858,Kolkata Knight Riders,207
+858,Punjab Kings,207
+859,Chennai Super Kings,132
+859,Kolkata Knight Riders,207
+860,Chennai Super Kings,215
+860,Kolkata Knight Riders,190
+861,Lucknow Super Giants,175
+861,Sunrisers Hyderabad,206
+862,Chennai Super Kings,216
+862,Punjab Kings,195
+863,Lucknow Super Giants,248
+863,Punjab Kings,242
+864,Gujarat Titans,200
+864,Lucknow Super Giants,216
+865,Punjab Kings,167
+865,Sunrisers Hyderabad,213
+866,Kolkata Knight Riders,172
+866,Royal Challengers Bangalore,188
+867,Lucknow Super Giants,208
+867,Mumbai Indians,206
+868,Delhi Capitals,206
+868,Sunrisers Hyderabad,205
+869,Chennai Super Kings,203
+869,Kolkata Knight Riders,223
+870,Delhi Capitals,225
+870,Kolkata Knight Riders,195
+871,Chennai Super Kings,212
+871,Delhi Capitals,200
+872,Lucknow Super Giants,206
+872,Sunrisers Hyderabad,234
+873,Kolkata Knight Riders,176
+873,Punjab Kings,168
+874,Kolkata Knight Riders,158
+874,Rajasthan Royals,216
+875,Gujarat Titans,129
+875,Punjab Kings,230
+876,Lucknow Super Giants,220
+876,Royal Challengers Bangalore,200
+877,Mumbai Indians,198
+877,Royal Challengers Bangalore,196
+878,Punjab Kings,197
+878,Sunrisers Hyderabad,243
+879,Gujarat Titans,225
+879,Kolkata Knight Riders,216
+880,Chennai Super Kings,209
+880,Lucknow Super Giants,215
+881,Lucknow Super Giants,219
+881,Royal Challengers Bangalore,229
+882,Rajasthan Royals,185
+882,Sunrisers Hyderabad,172
+883,Delhi Capitals,227
+883,Royal Challengers Bangalore,211
+884,Lucknow Super Giants,194
+884,Mumbai Indians,249
+885,Gujarat Titans,222
+885,Sunrisers Hyderabad,242
+886,Chennai Super Kings,224
+886,Sunrisers Hyderabad,194
+887,Kolkata Knight Riders,216
+887,Lucknow Super Giants,225
+888,Delhi Capitals,212
+888,Lucknow Super Giants,218
+889,Delhi Capitals,154
+889,Rajasthan Royals,251
+890,Gujarat Titans,219
+890,Rajasthan Royals,181
+891,Delhi Capitals,221
+891,Mumbai Indians,232
+892,Punjab Kings,203
+892,Rajasthan Royals,195
+893,Mumbai Indians,204
+893,Sunrisers Hyderabad,143
+894,Kolkata Knight Riders,236
+894,Royal Challengers Bangalore,204
+895,Punjab Kings,196
+895,Sunrisers Hyderabad,214
+896,Punjab Kings,193
+896,Sunrisers Hyderabad,154
+897,Rajasthan Royals,177
+897,Royal Challengers Bangalore,228
+898,Mumbai Indians,199
+898,Royal Challengers Bangalore,232
+899,Lucknow Super Giants,216
+899,Punjab Kings,225
+900,Delhi Capitals,181
+900,Royal Challengers Bangalore,242
+901,Chennai Super Kings,235
+901,Kolkata Knight Riders,248
+902,Chennai Super Kings,227
+902,Kolkata Knight Riders,187
+903,Delhi Capitals,194
+903,Punjab Kings,184
+904,Delhi Capitals,249
+904,Sunrisers Hyderabad,174
+905,Delhi Capitals,234
+905,Gujarat Titans,237
+906,Kolkata Knight Riders,220
+906,Sunrisers Hyderabad,226
+907,Delhi Capitals,218
+907,Royal Challengers Bangalore,183
+908,Rajasthan Royals,206
+908,Sunrisers Hyderabad,227
+909,Kolkata Knight Riders,213
+909,Rajasthan Royals,212
+910,Chennai Super Kings,203
+910,Kolkata Knight Riders,217
+911,Delhi Capitals,240
+911,Lucknow Super Giants,226
+912,Mumbai Indians,228
+912,Sunrisers Hyderabad,201
+913,Delhi Capitals,164
+913,Sunrisers Hyderabad,199
+914,Delhi Capitals,208
+914,Rajasthan Royals,241
+915,Delhi Capitals,217
+915,Kolkata Knight Riders,194
+916,Royal Challengers Bangalore,205
+916,Sunrisers Hyderabad,224
+917,Delhi Capitals,211
+917,Punjab Kings,202
+918,Mumbai Indians,245
+918,Rajasthan Royals,202
+919,Chennai Super Kings,228
+919,Kolkata Knight Riders,242
+920,Kolkata Knight Riders,190
+920,Lucknow Super Giants,209
+921,Kolkata Knight Riders,201
+921,Mumbai Indians,224
+922,Rajasthan Royals,175
+922,Royal Challengers Bangalore,231
+923,Gujarat Titans,223
+923,Kolkata Knight Riders,194
+924,Lucknow Super Giants,158
+924,Rajasthan Royals,200
+925,Delhi Capitals,225
+925,Rajasthan Royals,247
+926,Punjab Kings,189
+926,Sunrisers Hyderabad,208
+927,Lucknow Super Giants,223
+927,Rajasthan Royals,213
+928,Gujarat Titans,201
+928,Lucknow Super Giants,207
+929,Gujarat Titans,182
+929,Lucknow Super Giants,198
+930,Chennai Super Kings,92
+930,Rajasthan Royals,190
+931,Kolkata Knight Riders,220
+931,Sunrisers Hyderabad,205
+932,Delhi Capitals,210
+932,Lucknow Super Giants,246
+933,Lucknow Super Giants,201
+933,Sunrisers Hyderabad,222
+934,Lucknow Super Giants,202
+934,Royal Challengers Bangalore,212
+935,Kolkata Knight Riders,188
+935,Punjab Kings,205
+936,Delhi Capitals,236
+936,Rajasthan Royals,201
+937,Gujarat Titans,253
+937,Kolkata Knight Riders,206
+938,Delhi Capitals,160
+938,Punjab Kings,238
+939,Mumbai Indians,209
+939,Royal Challengers Bangalore,233
+940,Lucknow Super Giants,186
+940,Sunrisers Hyderabad,188
+941,Kolkata Knight Riders,190
+941,Sunrisers Hyderabad,209
+942,Delhi Capitals,238
+942,Punjab Kings,201
+943,Chennai Super Kings,238
+943,Kolkata Knight Riders,158
+944,Kolkata Knight Riders,188
+944,Lucknow Super Giants,202
+945,Gujarat Titans,193
+945,Sunrisers Hyderabad,222
+946,Chennai Super Kings,183
+946,Royal Challengers Bangalore,177
+947,Punjab Kings,216
+947,Rajasthan Royals,271
+948,Lucknow Super Giants,232
+948,Sunrisers Hyderabad,222
+949,Chennai Super Kings,199
+949,Punjab Kings,214
+950,Delhi Capitals,158
+950,Royal Challengers Bangalore,218
+951,Mumbai Indians,189
+951,Rajasthan Royals,188
+952,Kolkata Knight Riders,233
+952,Punjab Kings,228
+953,Delhi Capitals,215
+953,Lucknow Super Giants,203
+954,Delhi Capitals,200
+954,Gujarat Titans,226
+955,Delhi Capitals,221
+955,Lucknow Super Giants,231
+956,Delhi Capitals,232
+956,Punjab Kings,216
+957,Chennai Super Kings,264
+957,Punjab Kings,197
+958,Delhi Capitals,191
+958,Kolkata Knight Riders,213
+959,Lucknow Super Giants,151
+959,Mumbai Indians,241
+960,Rajasthan Royals,204
+960,Sunrisers Hyderabad,219
+961,Chennai Super Kings,210
+961,Kolkata Knight Riders,222
+962,Kolkata Knight Riders,235
+962,Royal Challengers Bangalore,217
+963,Royal Challengers Bangalore,172
+963,Sunrisers Hyderabad,253
+964,Chennai Super Kings,196
+964,Royal Challengers Bangalore,229
+965,Mumbai Indians,222
+965,Punjab Kings,206
+966,Kolkata Knight Riders,220
+966,Punjab Kings,187
+967,Lucknow Super Giants,229
+967,Rajasthan Royals,215
+968,Delhi Capitals,232
+968,Kolkata Knight Riders,184
+969,Kolkata Knight Riders,214
+969,Sunrisers Hyderabad,219
+970,Delhi Capitals,200
+970,Mumbai Indians,213
+971,Chennai Super Kings,203
+971,Gujarat Titans,211
+972,Delhi Capitals,209
+972,Mumbai Indians,218
+973,Chennai Super Kings,223
+973,Delhi Capitals,203
+974,Delhi Capitals,205
+974,Mumbai Indians,208
+975,Punjab Kings,198
+975,Rajasthan Royals,226
+976,Chennai Super Kings,248
+976,Kolkata Knight Riders,212
+977,Punjab Kings,174
+977,Sunrisers Hyderabad,231
+978,Kolkata Knight Riders,212
+978,Sunrisers Hyderabad,208
+979,Chennai Super Kings,235
+979,Royal Challengers Bangalore,218
+980,Lucknow Super Giants,217
+980,Punjab Kings,185
+981,Lucknow Super Giants,214
+981,Punjab Kings,222
+982,Delhi Capitals,218
+982,Lucknow Super Giants,200
+983,Chennai Super Kings,192
+983,Delhi Capitals,218
+984,Lucknow Super Giants,181
+984,Punjab Kings,124
+985,Chennai Super Kings,234
+985,Lucknow Super Giants,189
+986,Kolkata Knight Riders,205
+986,Rajasthan Royals,199
+987,Mumbai Indians,192
+987,Sunrisers Hyderabad,131
+988,Lucknow Super Giants,204
+988,Sunrisers Hyderabad,170
+989,Kolkata Knight Riders,211
+989,Lucknow Super Giants,230
+990,Kolkata Knight Riders,218
+990,Rajasthan Royals,222
+991,Gujarat Titans,195
+991,Mumbai Indians,202
+992,Chennai Super Kings,215
+992,Kolkata Knight Riders,213
+993,Mumbai Indians,237
+993,Sunrisers Hyderabad,221
+994,Punjab Kings,200
+994,Sunrisers Hyderabad,191
+995,Lucknow Super Giants,230
+995,Sunrisers Hyderabad,265
+996,Punjab Kings,202
+996,Sunrisers Hyderabad,187
+997,Kolkata Knight Riders,201
+997,Mumbai Indians,221
+998,Rajasthan Royals,196
+998,Sunrisers Hyderabad,188
+999,Delhi Capitals,223
+999,Sunrisers Hyderabad,179
+1000,Chennai Super Kings,203
+1000,Delhi Capitals,253
+1001,Gujarat Titans,211
+1001,Lucknow Super Giants,182
+1002,Lucknow Super Giants,204
+1002,Royal Challengers Bangalore,270
+1003,Gujarat Titans,220
+1003,Lucknow Super Giants,240
+1004,Lucknow Super Giants,210
+1004,Mumbai Indians,242
+1005,Chennai Super Kings,173
+1005,Royal Challengers Bangalore,232
+1006,Kolkata Knight Riders,214
+1006,Royal Challengers Bangalore,182
+1007,Lucknow Super Giants,210
+1007,Mumbai Indians,195
+1008,Chennai Super Kings,222
+1008,Delhi Capitals,218
+1009,Kolkata Knight Riders,196
+1009,Mumbai Indians,225
+1010,Lucknow Super Giants,224
+1010,Sunrisers Hyderabad,227
+1011,Punjab Kings,172
+1011,Rajasthan Royals,200
+1012,Chennai Super Kings,206
+1012,Mumbai Indians,233
+1013,Royal Challengers Bangalore,241
+1013,Sunrisers Hyderabad,210
+1014,Gujarat Titans,232
+1014,Royal Challengers Bangalore,197
+1015,Chennai Super Kings,219
+1015,Sunrisers Hyderabad,237
+1016,Lucknow Super Giants,197
+1016,Rajasthan Royals,243
+1017,Chennai Super Kings,199
+1017,Delhi Capitals,243
+1018,Delhi Capitals,193
+1018,Sunrisers Hyderabad,213
+1019,Royal Challengers Bangalore,216
+1019,Sunrisers Hyderabad,211
+1020,Kolkata Knight Riders,218
+1020,Punjab Kings,218
+1021,Mumbai Indians,192
+1021,Punjab Kings,197
+1022,Gujarat Titans,206
+1022,Kolkata Knight Riders,200
+1023,Chennai Super Kings,222
+1023,Punjab Kings,208
+1024,Gujarat Titans,193
+1024,Sunrisers Hyderabad,207
+1025,Chennai Super Kings,225
+1025,Sunrisers Hyderabad,248
+1026,Rajasthan Royals,241
+1026,Royal Challengers Bangalore,225
+1027,Chennai Super Kings,190
+1027,Delhi Capitals,203
+1028,Chennai Super Kings,153
+1028,Delhi Capitals,158
+1029,Mumbai Indians,173
+1029,Royal Challengers Bangalore,231
